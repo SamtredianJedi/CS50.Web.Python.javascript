@@ -20,3 +20,33 @@ git add <filename>
 
 git commit -m "message"
 
+git status - telling us whats currently happening inside our repository
+
+git push - finishing making changes 
+
+git commit -am "message" - commit all of the files that been changed
+
+git reset - will take current state of the repository and reverse 
+it back to an older state
+
+git reset --hard <commit>
+git reset -hard origin/master + comment hash
+
+
+
+git pull - downloading the more recent version of a project from 
+git hub, opposite of git push
+
+merge conflicts
+
+git log - track all of the changes that you made in your code  
+
+
+
+Branching - working on different parts of the repository at the same time
+
+
+
+
+
+
