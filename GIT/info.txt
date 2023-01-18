@@ -1,0 +1,22 @@
+// starting with github.com/new
+
+download the repository to our local computer
+
+install github
+
+git clone <url>
+
+ls - list
+
+cd - change directory
+
+touch - create a new file
+
+commits - saving current states
+
+git add - adding files till next time file tracking
+
+git add <filename>
+
+git commit -m "message"
+
