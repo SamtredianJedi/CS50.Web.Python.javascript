@@ -45,6 +45,8 @@ git log - track all of the changes that you made in your code
 
 Branching - working on different parts of the repository at the same time
 
+git hub pages
+
 
 
 
